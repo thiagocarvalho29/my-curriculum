@@ -1,3 +1,4 @@
+![Image](https://user-images.githubusercontent.com/82423124/120830252-b0cb0b00-c534-11eb-8488-cfee1e0d8c65.jpeg)
 # my-curriculum
 <!DOCTYPE html>
 <html lang="pt-br">
